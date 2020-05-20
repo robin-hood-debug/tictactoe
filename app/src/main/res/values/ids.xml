@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="playAgainLayout" type="id" />
+    <item name="winnerMessage" type="id" />
+    <item name="gridLayout" type="id" />
+</resources>
